@@ -1,0 +1,28 @@
+name: ultima
+favicon: null
+layout_spectrum: 0.5838773373980075
+typography_spectrum: 0.20345546724274755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2818255366291851
+  lightness: 0.17277125688269734
+  saturation: 0.9405200926121324
+  rhythmicContrast: 0.3703759182244539
+purpose: []
